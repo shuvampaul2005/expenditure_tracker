@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB5SDDxbvmopreTdvW0QlycjQwFqv-u1aE',
+    apiKey: 'put your own api key',
     appId: '1:208656116100:ios:2523b256d2dbc2cbbf55d1',
     messagingSenderId: '208656116100',
     projectId: 'expenditure-tracker-37e19',
